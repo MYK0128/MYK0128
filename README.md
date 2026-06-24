@@ -1,86 +1,72 @@
-## ひょうひゃん
-
-ひょうひゃんです。  
-HipHopとReggaeとVTuberのオタクです。  
-名古屋で大学生しながら、ひっそりと開発してます。  
-よろしければ[ホームページ](https://hyouhyan.com)もご覧ください。  
-
-### 連絡等はこちら
-- [hyouhyan@hyouhyan.com](mailto:hyouhyan@hyouhyan.com)
-
-
-## ﾍﾋﾞﾁｬﾝ
-
-[![GitHub Contribute Snake](https://raw.githubusercontent.com/hyouhyan/hyouhyan/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-
-
 ## Score
 <div align="center">
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyouhyan&show=reviews&show_icons=true&ring_color=6666f3&&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyouhyan&layout=donut&langs_count=6&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hyouhyan&theme=transparent&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MYK0128&show=reviews&show_icons=true&ring_color=6666f3&&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MYK0128&layout=donut&langs_count=6&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MYK0128&theme=transparent&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
 
 ## Skills
 
-### DevOps / Infrastructure
+### Research / Machine Learning
 
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,ansible,jenkins,githubactions,prometheus,grafana,cloudflare)](https://skillicons.dev)
+[![Research](https://skillicons.dev/icons?i=py,opencv)](https://skillicons.dev)
+
+- Pythonを用いた機械学習、データ前処理、特徴量抽出
+- scikit-learnによる分類モデルの構築・評価
+- BLE AoAデータを用いた屋内行動認識・転倒検知の研究
+- 混同行列、classification report、交差検証による評価
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,go,java,js,lua,php,py,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,c,py,js,ruby,bash)](https://skillicons.dev)
 
-### Frontend
+- C / C++：データ取得プログラム、競技プログラミング
+- Python：研究データ処理、機械学習、可視化
+- JavaScript：Webアプリケーションの画面操作・Ajax処理
+- Ruby：Ruby on Railsアプリケーションの修正・管理
+- Bash / Shell：開発環境操作、スクリプト実行
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,vue,nodejs)](https://skillicons.dev)
+### Web Development
 
-### Backend
+[![Web](https://skillicons.dev/icons?i=rails,ruby,js,html,css)](https://skillicons.dev)
 
-[![Backend](https://skillicons.dev/icons?i=flask,nginx)](https://skillicons.dev)
+- Ruby on Railsを用いたWebアプリケーションの保守・改修
+- Hamlによる画面テンプレート修正
+- JavaScript / Ajaxを用いた一覧表示・登録・更新処理
+- DataTablesを用いたテーブルUIの改善
+- フォーム、モーダル、チェックボックス処理などのUI調整
 
 ### Database
 
-[![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,redis)](https://skillicons.dev)
 
-### Operating Systems
+- MySQLを用いたWebアプリケーションのデータ管理
+- Redis / Sidekiqを含むRailsアプリケーション環境の利用経験
 
-[![OS](https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,mint)](https://skillicons.dev)
+### Infrastructure / Environment
 
-### Embedded / Hardware
+[![Infrastructure](https://skillicons.dev/icons?i=docker,githubactions)](https://skillicons.dev)
 
-[![Embedded](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+- Docker環境でのWebアプリケーション開発・動作確認
+- GitHubを用いたコード管理
+- Mac / Windows環境での開発経験
 
-### Development Tools
+### Tools
 
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,latex)](https://skillicons.dev)
 
-### Design & Creative
+- Git / GitHubによるバージョン管理
+- VS Codeを用いた開発
+- LaTeX / Overleafによる論文執筆
+- Matplotlibを用いた研究結果の可視化
 
-[![Design](https://skillicons.dev/icons?i=figma,ai,xd,ae,ps,pr,blender,autocad)](https://skillicons.dev)
+### Hardware / Embedded
 
-### Other
+[![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
-[![Other](https://skillicons.dev/icons?i=opencv,unity,bots)](https://skillicons.dev)
-
-
-## Topic
-- [Education Repositories](https://github.com/hyouhyan?tab=repositories&q=topic%3Aeducation)
-- [Discord Bot](https://github.com/hyouhyan?tab=repositories&q=topic%3Adiscord-bot)
-- [Google Apps Script](https://github.com/hyouhyan?tab=repositories&q=topic%3Agas)
-- [Minecraft ResourcePack](https://github.com/hyouhyan?tab=repositories&q=topic%3Aminecraft-resourcepack)
-
-<details>
-<summary>
-  scripts
-</summary>
-
-- [server-init](https://github.com/hyouhyan/server-init)  
-  ```
-  curl -fsSL https://hyouhyan.com/init.sh | sh
-  ```
-
-</details>
+- BLEデバイスを用いたAoAデータ取得
+- センサデータを用いた行動認識システムの研究
+- C++によるデータ取得プログラムの利用経験
